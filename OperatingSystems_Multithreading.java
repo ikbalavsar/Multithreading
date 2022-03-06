@@ -1,9 +1,3 @@
-/*
-Student Name : Gülsüm İkbal Avşar
-Student ID : 64180006
-Department : CoE - EEE
-Programming Assignment-1
- */
 
 import java.io.FileWriter;
 import java.time.Duration;
